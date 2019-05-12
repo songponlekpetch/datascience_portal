@@ -1,0 +1,5 @@
+.ant-table td { white-space: nowrap; }
+.ant-table th { white-space: nowrap; }
+.ant-table-body {
+    overflow-x: scroll !important;
+} 

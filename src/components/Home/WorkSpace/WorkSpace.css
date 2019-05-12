@@ -1,0 +1,45 @@
+.work-space {
+    width: 40vw;
+    height: 30vh;
+    top: 10vh;
+    left: 30vw;
+    position: relative;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    position: relative;
+    top: -3vh;
+}
+
+.intelligist {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.slogan {
+    position: relative;
+    top: -2.5vh;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.login {
+    position: relative;
+    top: -5vh;
+    margin: 0 20vh 0 20vh;
+}
+
+.login-input {
+    margin-bottom: 16px;
+}
+
+.option-button {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
